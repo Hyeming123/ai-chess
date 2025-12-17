@@ -50,7 +50,7 @@ python main.py
 
 즐거운 체스 게임 되세요! ♟️
 
-##코드 구성
+## 코드 구성
 
 - main.py
 - 1~5 import
