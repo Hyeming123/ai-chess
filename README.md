@@ -50,9 +50,9 @@ python main.py
 
 즐거운 체스 게임 되세요! ♟️
 
-코드 구성
+## 구성
 
-main.py
+-main.py
 1~5 import
 8~26 pygame setting
 28~40 기물 이미지 로드
@@ -68,7 +68,7 @@ main.py
  273~330 게임 루프
 332~334 게임 실행
 
-index.py
+-index.py
 1~3 import
 5~15 minimax 병렬화
 17~49 minimax 구현
