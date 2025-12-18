@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "total_games": 1,
+    "total_nodes": 26,
+    "total_edges": 31,
+    "results_summary": {
+      "1-0": 0,
+      "0-1": 0,
+      "1/2-1/2": 1
+    }
+  },
+  "nodes": {
+    "d0ba5e258ffcfee8": {
+      "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+      "visits": 1,
+      "avg_eval": 0.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 1
+      }
+    },
+    "0ee118f3e42d0b60": {
+      "fen": "rnbqkbnr/pppppppp/8/8/8/5N2/PPPPPPPP/RNBQKB1R b KQkq - 1 1",
+      "visits": 1,
+      "avg_eval": 50.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 1
+      }
+    },
+    "357f1c7b37877579": {
+      "fen": "rnbqkb1r/pppppppp/5n2/8/8/5N2/PPPPPPPP/RNBQKB1R w KQkq - 2 2",
+      "visits": 1,
+      "avg_eval": 0.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 1
+      }
+    },
+    "92f8a1f1ec5f2d03": {
+      "fen": "rnbqkb1r/pppppppp/5n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R b KQkq - 3 2",
+      "visits": 1,
+      "avg_eval": 50.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 1
+      }
+    },
+    "e476e6a97ff25964": {
+      "fen": "r1bqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R w KQkq - 4 3",
+      "visits": 1,
+      "avg_eval": 0.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 1
+      }
+    },
+    "3913a5ed692aab87": {
+      "fen": "r1bqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKBR1 b Qkq - 5 3",
+      "visits": 1,
+      "avg_eval": 0.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 1
+      }
+    },
+    "085f1cdd5ec71eab": {
+      "fen": "1rbqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKBR1 w Qk - 6 4",
+      "visits": 1,
+      "avg_eval": 0.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 1
+      }
+    },
+    "3b69bb179840e094": {
+      "fen": "1rbqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R b Qk - 7 4",
+      "visits": 1,
+      "avg_eval": 0.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 1
+      }
+    },
+    "40bcdbf723b246c1": {
+      "fen": "r1bqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R w Qk - 8 5",
+      "visits": 1,
+      "avg_eval": 0.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 1
+      }
+    },
+    "81cd9df31915506d": {
+      "fen": "r1bqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKBR1 b Qk - 9 5",
+      "visits": 1,
+      "avg_eval": 0.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 1
+      }
+    },
+    "ff15c8687eb4f0a7": {
+      "fen": "r1bqkbr1/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKBR1 w Q - 10 6",
+      "visits": 1,
+      "avg_eval": 0.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 1
+      }
+    },
+    "1fee7e2d26476730": {
+      "fen": "r1bqkbr1/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/1RBQKBR1 b - - 11 6",
+      "visits": 2,
+      "avg_eval": 0.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 2
+      }
+    },
+    "5fe0d7859360327e": {
+      "fen": "r1bqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/1RBQKBR1 w - - 12 7",
+      "visits": 2,
+      "avg_eval": 10.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 2
+      }
+    },
+    "59815c3a6461af89": {
+      "fen": "r1bqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/1RBQKB1R b - - 13 7",
+      "visits": 4,
+      "avg_eval": -10.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 4
+      }
+    },
+    "15d3aa4a9b0d6b05": {
+      "fen": "r1bqkbr1/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/1RBQKB1R w - - 14 8",
+      "visits": 3,
+      "avg_eval": 6.666666666666667,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 3
+      }
+    },
+    "f26538b4ad5af9ad": {
+      "fen": "r1bqkbr1/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R b - - 15 8",
+      "visits": 4,
+      "avg_eval": -10.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 4
+      }
+    },
+    "2fa5c4f06acf240e": {
+      "fen": "r1bqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R w - - 16 9",
+      "visits": 2,
+      "avg_eval": 10.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 2
+      }
+    },
+    "693ebb6ddbc52b99": {
+      "fen": "1rbqkbr1/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R w - - 20 11",
+      "visits": 4,
+      "avg_eval": 10.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 4
+      }
+    },
+    "c170f13a1bca96be": {
+      "fen": "1rbqkbr1/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKBR1 b - - 21 11",
+      "visits": 4,
+      "avg_eval": -10.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 4
+      }
+    },
+    "2a63cf47a4b8af6c": {
+      "fen": "1rbqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKBR1 w - - 22 12",
+      "visits": 2,
+      "avg_eval": 0.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 2
+      }
+    },
+    "70ecaa4d99f8e3b6": {
+      "fen": "1rbqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKB1R b - - 23 12",
+      "visits": 2,
+      "avg_eval": -10.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 2
+      }
+    },
+    "1624c79b9a78fda8": {
+      "fen": "r1bqkbr1/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/R1BQKBR1 w - - 26 14",
+      "visits": 2,
+      "avg_eval": 20.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 2
+      }
+    },
+    "25b5c505887ba8a6": {
+      "fen": "1rbqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/1RBQKB1R w - - 38 20",
+      "visits": 2,
+      "avg_eval": 10.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 2
+      }
+    },
+    "10d072b3fd9ade19": {
+      "fen": "1rbqkb1r/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/1RBQKBR1 b - - 39 20",
+      "visits": 2,
+      "avg_eval": -20.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 2
+      }
+    },
+    "4e77b59e5bd9e899": {
+      "fen": "1rbqkbr1/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/1RBQKBR1 w - - 40 21",
+      "visits": 2,
+      "avg_eval": 20.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 2
+      }
+    },
+    "8d598074b3da8f3e": {
+      "fen": "1rbqkbr1/pppppppp/2n2n2/8/8/2N2N2/PPPPPPPP/1RBQKB1R b - - 45 23",
+      "visits": 1,
+      "avg_eval": -20.0,
+      "outcomes": {
+        "1-0": 0,
+        "0-1": 0,
+        "1/2-1/2": 1
+      }
+    }
+  },
+  "edges": {
+    "d0ba5e258ffcfee8->0ee118f3e42d0b60": {
+      "move": "Nf3",
+      "count": 1,
+      "avg_score": 0.0
+    },
+    "0ee118f3e42d0b60->357f1c7b37877579": {
+      "move": "Nf6",
+      "count": 1,
+      "avg_score": 50.0
+    },
+    "357f1c7b37877579->92f8a1f1ec5f2d03": {
+      "move": "Nc3",
+      "count": 1,
+      "avg_score": 0.0
+    },
+    "92f8a1f1ec5f2d03->e476e6a97ff25964": {
+      "move": "Nc6",
+      "count": 1,
+      "avg_score": 50.0
+    },
+    "e476e6a97ff25964->3913a5ed692aab87": {
+      "move": "Rg1",
+      "count": 1,
+      "avg_score": 0.0
+    },
+    "3913a5ed692aab87->085f1cdd5ec71eab": {
+      "move": "Rb8",
+      "count": 1,
+      "avg_score": 0.0
+    },
+    "085f1cdd5ec71eab->3b69bb179840e094": {
+      "move": "Rh1",
+      "count": 1,
+      "avg_score": 0.0
+    },
+    "3b69bb179840e094->40bcdbf723b246c1": {
+      "move": "Ra8",
+      "count": 1,
+      "avg_score": 0.0
+    },
+    "40bcdbf723b246c1->81cd9df31915506d": {
+      "move": "Rg1",
+      "count": 1,
+      "avg_score": 0.0
+    },
+    "81cd9df31915506d->ff15c8687eb4f0a7": {
+      "move": "Rg8",
+      "count": 1,
+      "avg_score": 0.0
+    },
+    "ff15c8687eb4f0a7->1fee7e2d26476730": {
+      "move": "Rb1",
+      "count": 1,
+      "avg_score": 0.0
+    },
+    "1fee7e2d26476730->5fe0d7859360327e": {
+      "move": "Rh8",
+      "count": 2,
+      "avg_score": 0.0
+    },
+    "5fe0d7859360327e->59815c3a6461af89": {
+      "move": "Rh1",
+      "count": 2,
+      "avg_score": 10.0
+    },
+    "59815c3a6461af89->15d3aa4a9b0d6b05": {
+      "move": "Rg8",
+      "count": 3,
+      "avg_score": -6.666666666666667
+    },
+    "15d3aa4a9b0d6b05->f26538b4ad5af9ad": {
+      "move": "Ra1",
+      "count": 2,
+      "avg_score": 0.0
+    },
+    "f26538b4ad5af9ad->2fa5c4f06acf240e": {
+      "move": "Rh8",
+      "count": 2,
+      "avg_score": -10.0
+    },
+    "2fa5c4f06acf240e->59815c3a6461af89": {
+      "move": "Rb1",
+      "count": 2,
+      "avg_score": 10.0
+    },
+    "f26538b4ad5af9ad->693ebb6ddbc52b99": {
+      "move": "Rb8",
+      "count": 2,
+      "avg_score": -10.0
+    },
+    "693ebb6ddbc52b99->c170f13a1bca96be": {
+      "move": "Rg1",
+      "count": 3,
+      "avg_score": 6.666666666666667
+    },
+    "c170f13a1bca96be->2a63cf47a4b8af6c": {
+      "move": "Rh8",
+      "count": 2,
+      "avg_score": -10.0
+    },
+    "2a63cf47a4b8af6c->70ecaa4d99f8e3b6": {
+      "move": "Rh1",
+      "count": 2,
+      "avg_score": 0.0
+    },
+    "70ecaa4d99f8e3b6->693ebb6ddbc52b99": {
+      "move": "Rg8",
+      "count": 2,
+      "avg_score": -10.0
+    },
+    "c170f13a1bca96be->1624c79b9a78fda8": {
+      "move": "Ra8",
+      "count": 2,
+      "avg_score": -10.0
+    },
+    "1624c79b9a78fda8->f26538b4ad5af9ad": {
+      "move": "Rh1",
+      "count": 2,
+      "avg_score": 20.0
+    },
+    "15d3aa4a9b0d6b05->1fee7e2d26476730": {
+      "move": "Rg1",
+      "count": 1,
+      "avg_score": 20.0
+    },
+    "59815c3a6461af89->25b5c505887ba8a6": {
+      "move": "Rb8",
+      "count": 1,
+      "avg_score": -20.0
+    },
+    "25b5c505887ba8a6->10d072b3fd9ade19": {
+      "move": "Rg1",
+      "count": 2,
+      "avg_score": 10.0
+    },
+    "10d072b3fd9ade19->4e77b59e5bd9e899": {
+      "move": "Rg8",
+      "count": 2,
+      "avg_score": -20.0
+    },
+    "4e77b59e5bd9e899->c170f13a1bca96be": {
+      "move": "Ra1",
+      "count": 2,
+      "avg_score": 20.0
+    },
+    "693ebb6ddbc52b99->8d598074b3da8f3e": {
+      "move": "Rb1",
+      "count": 1,
+      "avg_score": 20.0
+    },
+    "8d598074b3da8f3e->25b5c505887ba8a6": {
+      "move": "Rh8",
+      "count": 1,
+      "avg_score": -20.0
+    }
+  }
+}
